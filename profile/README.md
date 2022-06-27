@@ -56,6 +56,6 @@ O DNA da empresa é o melhor uso possível dos recursos hídricos e, por esse mo
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
+![Grafana](https://github.com/RennosonicDesenvolvimento/.github/blob/main/profile/badge/grafana.png)
 
 </p>
