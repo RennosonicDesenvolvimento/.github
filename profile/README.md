@@ -1,5 +1,3 @@
-<img src="https://rennosonic.com/wp-content/uploads/2020/04/IMG_9803.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Rennosonic Tecnologia">
-
 <p align="left"> 
 A Rennosonic foi fundada em 2008 com o intuito de tornar as Usinas Hidrelétricas e Redes de Abastecimento de Água mais eficientes, através de um controle e monitoramento do uso da água. Em 2009, ingressou na Incubadora de Empresas de Base Tecnológica de Itajubá (INCIT), localizada dentro da Universidade Federal de Itajubá (UNIFEI), onde passou a desenvolver melhor suas soluções de mercado.
 
